@@ -12,7 +12,7 @@ This repository is set up for one-click deploy on Render.com.
    - Commit changes.
 
 ```markdown
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/polymarket_v2)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/swatson124455/polymarket_v2)
 ```
 
 4. **Click the badge** in the rendered README — Render will auto-build and deploy both backend and frontend.  
